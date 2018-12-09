@@ -1,4 +1,4 @@
-# A Scss compiler for ASP.NET Core
+# A Scss compiler for ASP.NET Core 2.2
 
 [![Build status](https://ci.appveyor.com/api/projects/status/i4uo3yef1gpyu00y?svg=true)](https://ci.appveyor.com/project/madskristensen/weboptimizer-sass)
 [![NuGet](https://img.shields.io/nuget/v/LigerShark.WebOptimizer.Sass.svg)](https://nuget.org/packages/LigerShark.WebOptimizer.Sass/)
